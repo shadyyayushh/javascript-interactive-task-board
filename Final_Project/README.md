@@ -8,19 +8,19 @@ An interactive **Task Board** built using **HTML, CSS, and Vanilla JavaScript**.
 
 ### 🏠 Homepage
 
-![Homepage](Final_Project/screenshots/Homepage.png)
+![Homepage](screenshots/Homepage.png)
 
 ---
 
 ### ➕ Task Added
 
-![Task Added](Final_Project/screenshots/Add_Task.png)
+![Task Added](screenshots/Add_Task.png)
 
 ---
 
 ### ✅ Completed Task
 
-![Completed Task](Final_Project/screenshots/Task_Complete.png)
+![Completed Task](screenshots/Task_Complete.png)
 
 ---
 
