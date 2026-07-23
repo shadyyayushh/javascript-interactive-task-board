@@ -14,13 +14,13 @@ An interactive **Task Board** built using **HTML, CSS, and Vanilla JavaScript**.
 
 ### ➕ Task Added
 
-![Task Added](screenshots/TaskAdded.png)
+![Task Added](screenshots/Add_Task.png)
 
 ---
 
 ### ✅ Completed Task
 
-![Completed Task](screenshots/CompletedTask.png)
+![Completed Task](screenshots/Task_Complete.png)
 
 ---
 
@@ -103,8 +103,8 @@ Final Project/
 │
 └── screenshots
     ├── Homepage.png
-    ├── TaskAdded.png
-    └── CompletedTask.png
+    ├── Add_Task.png
+    └── Task_Complete.png
 ```
 
 ---
@@ -156,7 +156,7 @@ This project helped me practice and strengthen my understanding of:
 
 **Ayush Kushwaha**
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/your-shadyyayushh
 
 ---
 
