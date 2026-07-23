@@ -8,7 +8,7 @@ An interactive **Task Board** built using **HTML, CSS, and Vanilla JavaScript**.
 
 ### 🏠 Homepage
 
-![Homepage](screenshots/Homepage.png)
+![Homepage](Screenshots/Homepage.png)
 
 ---
 
