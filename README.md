@@ -20,7 +20,7 @@ An interactive **Task Board** built using **HTML, CSS, and Vanilla JavaScript**.
 
 ### ✅ Completed Task
 
-![Completed Task](screenshots/CompletedTask.png)
+![Completed Task](Screenshots/CompletedTask.png)
 
 ---
 
