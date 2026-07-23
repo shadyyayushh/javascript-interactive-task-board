@@ -14,7 +14,7 @@ An interactive **Task Board** built using **HTML, CSS, and Vanilla JavaScript**.
 
 ### ➕ Task Added
 
-![Task Added](screenshots/TaskAdded.png)
+![Task Added](Screenshots/TaskAdded.png)
 
 ---
 
