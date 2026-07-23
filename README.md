@@ -156,7 +156,7 @@ This project helped me practice and strengthen my understanding of:
 
 **Ayush Kushwaha**
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/shadyyayushh
 
 ---
 
